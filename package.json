@@ -6,7 +6,7 @@
   "dependencies": {
     "reactify": "~0.10.0",
     "envify": "~1.2.1",
-    "react": "~0.10.0",
+    "react": "~0.14.0",
     "director": "~1.2.3",
     "rx": "~2.2.17"
   },
