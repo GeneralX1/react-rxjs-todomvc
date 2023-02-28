@@ -4,7 +4,7 @@
   "description": "TodoMVC implementations with React and RxJS",
   "main": "index.js",
   "dependencies": {
-    "reactify": "~0.10.0",
+    "reactify": "~0.17.1",
     "envify": "~1.2.1",
     "react": "~0.14.0",
     "director": "~1.2.3",
